@@ -1,3 +1,16 @@
+# Important!
+This project was created using Create React App. If you would like to use these files, do the following:
+
+- Start up a Create React App project.
+- From this repository, copy the following into your src directory of your Create React App project:
+  - src/components/ContactCardClass.js
+  - src/App.js
+  - src/myStyles.css
+
+Then run "npm start" in your command line to run the deployment server.
+
+Below is documentation provided by the Create React App team to get started. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
